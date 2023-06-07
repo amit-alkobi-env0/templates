@@ -1,5 +1,0 @@
-destroy:
-  step:
-    terraformPlan:
-      before:
-        - exit 1
