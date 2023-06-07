@@ -1,7 +1,7 @@
-version: 1
+# version: 1
 
-destroy:
-  step:
-    terraformPlan:
-      before:
-        - exit 1
+# destroy:
+#   step:
+#     terraformPlan:
+#       before:
+#         - exit 1
